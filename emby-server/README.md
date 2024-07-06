@@ -1,10 +1,4 @@
-# Home Assistant add-ons repository
-
-## Add-ons
-
-This repository contains the following add-ons
-
-### [Emby Server](./emby-server)
+# Home Assistant Add-on: Emby Server
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]

@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@v4.1.7
       - name: Get changed files
         id: changed_files
-        uses: jitterbit/get-changed-files@v1
+        uses: ana06/get-changed-files@v2.3.0
       - name: Find add-on directories
         id: addons
         uses: home-assistant/actions/helpers/find-addons@master
