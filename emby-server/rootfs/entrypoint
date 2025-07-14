@@ -1,5 +1,0 @@
-#!/bin/execlineb -S0
-
-sudo chown -r ${UID}:${GID} /config
-
-/init $@
